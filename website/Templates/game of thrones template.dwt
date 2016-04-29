@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>game of thrones template</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<p><br>
+<a href="../index/">Home Page</a></p>
+<p> <!-- TemplateBeginEditable name="EditRegion3" -->Welcome to Game of Thrones<br>
+<!-- TemplateEndEditable --></p>
+<ul>
+  <li><a href="../house-baratheon/">House Baratheon</a>
+    <ul>
+      <li><a href="../house-baratheon/robert-baratheon.html">Robert Baratheon</a></li>
+      <li><a href="../house-baratheon/stannis-baratheon.html">Stannis Baratheon</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-bolton/">House Bolton</a>
+    <ul>
+      <li><a href="../house-bolton/roose-bolton.html">Roose Bolton</a></li>
+      <li><a href="../house-bolton/ramsay-bolton.html">Ramsay Bolton</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-lannister/">House Lannister</a>
+    <ul>
+      <li><a href="../house-lannister/ceresi-lannister.html">Cersei Lannister</a></li>
+      <li><a href="../house-lannister/jaime-lannister.html">Jaime Lannister</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-martell/">House Martell</a>
+    <ul>
+      <li><a href="../house-martell/oberyn-martell.html">Oberyn Martell</a></li>
+      <li><a href="../house-martell/doran-martell.html">Doran Martell</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-stark/">House Stark</a>
+    <ul>
+      <li><a href="../house-stark/arya-stark.html">Arya Stark</a></li>
+      <li><a href="../house-stark/sansa-stark.html">Sansa Stark</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-stark/house-targaryen/">House Targaryen</a>
+    <ul>
+      <li><a href="../house-stark/house-targaryen/viserys-taragyen.html">Viserys Targaryen</a></li>
+      <li><a href="../house-stark/house-targaryen/daenerys-taragyen.html">Daenerys Targaryen</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-tully/">House Tully</a>
+    <ul>
+      <li><a href="../house-tully/lysa-tully.html">Lysa Tully</a></li>
+      <li><a href="../house-tully/edmure-tully.html">Edmure Tully</a></li>
+    </ul>
+  </li>
+  <li><a href="../house-tyrell/">House Tyrell</a>
+    <ul>
+      <li><a href="../house-tyrell/margaery-tully.html">Margaery Tyrell</a></li>
+      <li><a href="../house-tyrell/loras-tully.html">Loras Tyrell</a></li>
+    </ul>
+  </li>
+</ul>
+</body>
+</html>
