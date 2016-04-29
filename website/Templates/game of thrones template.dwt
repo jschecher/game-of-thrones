@@ -66,8 +66,8 @@
   <li><a href="../house-tully/">House Tully</a>
   </li>
   <!-- TemplateBeginIf cond="_document['House Tully']" -->
-  <li><a href="../house-tully/lysa-tully.html">Lysa Tully</a></li>
-  <li><a href="../house-tully/edmure-tully.html">Edmure Tully</a></li>
+  <p>Margaer Tully</p>
+  <p>Loras Tully</p>
   <!-- TemplateEndIf -->
   <li> </li>
   <li><a href="../house-tyrell/">House Tyrell</a>
